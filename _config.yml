@@ -1,7 +1,7 @@
 # Book settings
 # Learn more at https://jupyterbook.org/customize/config.html
 
-title: Statistical 
+title: Fall 2025 CCNY EAS 42000/A4200
 author: Spencer A. Hill
 logo: logo.png
 
@@ -31,18 +31,18 @@ latex:
     targetname: stat-methods-earth-atmos-sci.tex
 
 # Add a bibtex file so that we can create citations
-bibtex_bibfiles:
-  - references.bib
+# bibtex_bibfiles:
+  # - references.bib
 
 # Information about where the book exists on the web
 repository:
   url: https://github.com/spencerahill/stat-methods-course
   path_to_book: docs  # Optional path to your book, relative to the repository root
-  branch: master  # Which branch of the repository should be used when creating links (optional)
+  branch: main  # Which branch of the repository should be used when creating links (optional)
 
 # Add binder launch button
-launch_buttons:
-  binderhub_url: https://mybinder.org/v2/gh/spencerahill/stat-methods-course/main
+# launch_buttons:
+  # binderhub_url: https://mybinder.org/v2/gh/spencerahill/stat-methods-course/main
 
 # Add GitHub buttons to your book
 # See https://jupyterbook.org/customize/config.html#add-a-link-to-your-repository
