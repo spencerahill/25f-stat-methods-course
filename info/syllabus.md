@@ -60,17 +60,18 @@ In terms of the grade, this determination of participation is inherently subject
 
 Note that I see this primarily as an opportunity to bump grades slightly up (from say a B+ to an A-), not down.  At the end of the day, if you get excellent scores on your assignments, midterms, and final project, but don't participate all that much, I wouldn't bump your grade down on that basis alone.  More realistic is if you did say B-grade work over the semester, but were otherwise a very active participant, I'd use that to justify bumping you up from a B to a B+.
 
-### Midterms (40% total; 25% midterm 1, 15% midterm 2)
-There will be two midterms, the first covering material from roughly the first 60% of the semester, and the second covering roughly the remaining 40% (and only that 40%; the second exam is not cumulative).  These will be open-note but in-person, pencil-and-paper *only* exams (no calculators, computers, phones, etc.).
+### Midterms (40% total; 20% midterm 1, 20% midterm 2)
+There will be two midterms, the first covering material from roughly the first 40% of the semester, and the second covering the next 40% (and only that 40%; the second exam is not cumulative); the last ~20% on machine learning will be assessed via the final project, not exams.  These will be 100% closed resource, in-person only.
 
 While the course strives to provide you a practically useful toolbox above all else (as described above), no technique for analyzing your data will actually be helpful if you don't genuinely *understand* what it is doing.  In the era of ChatGPT and related tools (more on that below), in-person, pencil-and-paper exams are the best way of determining your level of understanding.  There will be more information closer to each exam regarding the specific material covered and what you can expect from the exam more generally.
 
-The course [schedule](./schedule) is subject to change, but the initial planned midterm dates are **Wednesday, October 25th**, and **Monday, December 11th**.
+<!-- The course [schedule](./schedule) is subject to change, but the initial planned midterm dates are **Wednesday, October 25th**, and **Monday, December 11th**. -->
 
 ### Final project (30% total; 15% submitted report; 15% in-class presentation)
-In the final project, you will apply some of the statistical methods learned throughout the course to a real-world problem in Earth and Atmospheric Sciences of your choosing.  In consultation with the professor, you will select a topic of interest; then you will conduct data analysis, write a final report (in the form of a self-contained, fully executable Jupyter Notebook), and present your findings to the class.  
+In the final project, you will apply some of the statistical methods learned throughout the course to a real-world problem in Earth and Atmospheric Sciences.  In consultation with the professor, you will select a problem of interest; then you will conduct data analysis, write a final report (in the form of a self-contained, fully executable Jupyter Notebook), and present your findings to the class.
 
-The grade will be based on the final report and presentation, both equally weighted.  The presentations will be split over two class periods, tentatively scheduled for **Monday, December 4th** and **Wednesday, December 6th**.  More information on the presentation format and expectations will come later in the semester. 
+The grade will be based on the final report and presentation, both equally weighted.  
+<!-- The presentations will be split over two class periods, tentatively scheduled for **Monday, December 4th** and **Wednesday, December 6th**.  More information on the presentation format and expectations will come later in the semester.  -->
 
 ## Course materials
 
@@ -105,23 +106,23 @@ The goals of the [CCNY Community Standards](https://www.ccny.cuny.edu/studentaff
 
 Plagiarism is copying and using other people’s words without proper acknowledgment or citation as it is indicated in the CUNY Policy on Academic Integrity.  All writing submitted for this course is understood to be your original work written.  Plagiarism is unacceptable and has serious consequences that can include a failing grade.  In cases where I detect academic dishonesty (the fraudulent submission of another’s work, in whole or part, as your own), you may be subject to a failing grade for the project or the course, and in the worst case, to academic probation or expulsion. You are expected to read, understand, and adhere to [CCNY’s Policy on Academic Integrity](http://www.cuny.edu/about/administration/offices/legal-affairs/policies-resources/academic-integrity-policy/).
 
-### (LLM snippets added starting spring 2024)
-From Mollick and Mollick 2024: "Although the AI's output might be deemed 'good enough,' students should hold themselves to a higher standard".  More generally. LLMs raise the stakes for the students.  If it's helpful, flip your perspective on its head.  You might think "ChatGPT let's me get off easier; I can get the same results with less effort."  Instead, in this class at least, it's basically the opposite: "ChatGPT means that the expectations are that much higher: the instructor expects me to use AI tools to do even better than I could have otherwise.  Mediocre work that I don't really understand or believe in will be graded harshly, and the bar for high-quality work has been raised even higher."  That might seem unfair.  But it's the reality of the world we're in, right now in the Fall of 2025.  It is meant to be *motivating*: just how far can you go?
+<!-- ### (LLM snippets added starting spring 2024) -->
+<!-- From Mollick and Mollick 2024: "Although the AI's output might be deemed 'good enough,' students should hold themselves to a higher standard".  More generally. LLMs raise the stakes for the students.  If it's helpful, flip your perspective on its head.  You might think "ChatGPT let's me get off easier; I can get the same results with less effort."  Instead, in this class at least, it's basically the opposite: "ChatGPT means that the expectations are that much higher: the instructor expects me to use AI tools to do even better than I could have otherwise.  Mediocre work that I don't really understand or believe in will be graded harshly, and the bar for high-quality work has been raised even higher."  That might seem unfair.  But it's the reality of the world we're in, right now in the Fall of 2025.  It is meant to be *motivating*: just how far can you go? -->
 
-Types of risk associated with LLM outputs (c.f. Mollick and Mollick 2024):
+<!-- Types of risk associated with LLM outputs (c.f. Mollick and Mollick 2024): -->
 
-1. **Confabulation risks**: a.k.a. "hallucination" a.k.a. "making stuff up."  Depending on the context, these can be very easy or *very difficult* for you to spot.  **You are responsible for verifying all LLM outputs.**
-2. **Bias risks**: Based on their training data and their fine-tuning, LLMs can be biased in various ways: gender bias, other identity-based bias, political and viewpoint bias.  This can be quite difficult to spot.  For this course on statistical methods, such issues likely won't be hugely important.  Regardless, it's important to be aware of this more generally.   
-3. **Privacy risks**: Assume that anything you feed into an LLM will be later used to train future generations of the same LLM or other LLMs.  The legal status here is all shaky.  Note that doesn't necessarily mean that any humans will be reading your individual ChatGPT sessions.
-4. **Instructional risks**: an LLM might teach you material in ways that differs from how it's being taught in this class.  E.g. using different notation or slightly different definitions.  Separately, there's the single biggest danger in my mind, of you using it as a crutch that replaces your learning rather than a booster that acclerates it.
+<!-- 1. **Confabulation risks**: a.k.a. "hallucination" a.k.a. "making stuff up."  Depending on the context, these can be very easy or *very difficult* for you to spot.  **You are responsible for verifying all LLM outputs.** -->
+<!-- 2. **Bias risks**: Based on their training data and their fine-tuning, LLMs can be biased in various ways: gender bias, other identity-based bias, political and viewpoint bias.  This can be quite difficult to spot.  For this course on statistical methods, such issues likely won't be hugely important.  Regardless, it's important to be aware of this more generally.    -->
+<!-- 3. **Privacy risks**: Assume that anything you feed into an LLM will be later used to train future generations of the same LLM or other LLMs.  The legal status here is all shaky.  Note that doesn't necessarily mean that any humans will be reading your individual ChatGPT sessions. -->
+<!-- 4. **Instructional risks**: an LLM might teach you material in ways that differs from how it's being taught in this class.  E.g. using different notation or slightly different definitions.  Separately, there's the single biggest danger in my mind, of you using it as a crutch that replaces your learning rather than a booster that acclerates it. -->
 
-There are also bigger-picture concerns one might reasonably have:
+<!-- There are also bigger-picture concerns one might reasonably have: -->
 
-1. **AI alignment**: Will we all be turned into paperclips?
-2. **Ethics** (training, job displacement):
-3. **Environmental impact**:
+<!-- 1. **AI alignment**: Will we all be turned into paperclips? -->
+<!-- 2. **Ethics** (training, job displacement): -->
+<!-- 3. **Environmental impact**: -->
 
-I approach teaching broadly as follows “We now see that our mission is not instruction but rather that of producing learning with every student by whatever means work best” (Barr & Tagg, 1995, p. 13)
+<!-- I approach teaching broadly as follows “We now see that our mission is not instruction but rather that of producing learning with every student by whatever means work best” (Barr & Tagg, 1995, p. 13) -->
 
 ### ChatGPT and other AI tools
 
