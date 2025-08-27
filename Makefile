@@ -5,9 +5,14 @@ clean:
 
 build:
 	PYDEVD_DISABLE_FILE_VALIDATION=1 jb build ${ROOTDIR}
-ghp-import:
-	ghp-import -n -p -f ${ROOTDIR}/_build/html
 
-publish: clean build ghp-import
+push:
+	git push origin main
 
-.phony: clean build ghp-import publish
+publish:
+	build push
+
+clean-publish:
+	clean publish
+
+.phony: clean build push publish clean-publish
