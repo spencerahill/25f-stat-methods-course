@@ -4,7 +4,7 @@
 Note that, although the undergraduate (42000) and Master's (A4200) sections of this course have different names ("Statistical Methods" and "Quantitative Data Analysis" respectively), the two are taught together and other than the title are completely identical.  For brevity I'll refer to both just as "Statistical Methods in Earth and Atmospheric Sciences."
 
 ## Course Information
-- **Class Times**: Mondays and Wednesdays, 2:00-3:15pm; full schedule [here](./schedule).
+- **Class Times**: Mondays and Wednesdays, 2:00-3:15pm; full schedule [here](./schedule).  *Be advised: Marshak elevators are flaky, and so it can take a **long** time to get from the ground floor elevator lobby all the way up to the 11th floor.  Plan accordingly!*
 - **Location**: Marshak 1128.  Be advised, I have no control over the thermostat, and depending on the day it can be very cold, very warm or in between!  Plan accordingly.
 - **Course Website**: [https://spencerahill.github.io/stat-methods-course](https://spencerahill.github.io/stat-methods-course)
 - **Instructor**: [Spencer Hill](https://www.ccny.cuny.edu/profiles/spencer-hill), Assistant Professor, CCNY Dept. of Earth and Atmospheric Sciences

@@ -9,10 +9,7 @@ build:
 push:
 	git push origin main
 
-publish:
-	build push
+all:
+	clean build push
 
-clean-publish:
-	clean publish
-
-.phony: clean build push publish clean-publish
+.phony: clean build push all
