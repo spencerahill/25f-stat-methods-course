@@ -35,7 +35,7 @@ There is no pre-set distribution of grades or "curve" across the class: you are 
 * - Participation
   - 10%
 * - Midterms
-  - 40% (25% Midterm #1, 15% Midterm #2)
+  - 40% (20% Midterm #1, 20% Midterm #2)
 * - Final project
   - 30% (15% submitted report; 15% in-class presentation)
 ```
