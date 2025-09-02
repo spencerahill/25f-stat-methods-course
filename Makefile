@@ -1,15 +1,12 @@
-ROOTDIR=.
+.PHONY: clean build open
+
+ROOTDIR := .
 
 clean:
-	jb clean -a ${ROOTDIR}
+	jb clean -a $(ROOTDIR)
 
 build:
-	PYDEVD_DISABLE_FILE_VALIDATION=1 jb build ${ROOTDIR}
+	PYDEVD_DISABLE_FILE_VALIDATION=1 jb build $(ROOTDIR)
 
-push:
-	git push origin main
-
-all:
-	clean build push
-
-.phony: clean build push all
+open: build
+	open $(ROOTDIR)/_build/html/index.html
