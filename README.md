@@ -11,10 +11,10 @@ This repository is where you can create [Issues](https://github.com/spencerahill
 ## 2. Go to the course Brightspace site for non-public content
 Such as grades, HW submission links, etc.
 
-## 3. The lecture notes are housed in [their own repo](https://github.com/spencerahill/stat-methods-book) and published at [this link](https://spencerahill.github.io/stat-methods-book)
-Go straight to their published site if you just want to use the notes for your learning.  Go to the repo if you want to see "under the hood" or create Issues or Pull Requests that relate to the lecture notes.
+## 3. The lecture notes live in [their own repo](https://github.com/spencerahill/stat-methods-book) and published at [this link](https://spencerahill.github.io/stat-methods-book)
+Go straight to their published site if you just want to use the notes for your learning.  Go to their repo if you want to see "under the hood" or create Issues or Pull Requests *that relate to the lecture notes*; any other Issues or Pull Requests should go in this repository that you're on right now.
 
-(This is a separate repo because the lecture notes are meant to be reused across classes.) 
+(The reason for having these two different repositories is that the lecture notes get reused across classes, including by people not at CCNY.) 
 
 # If you're not a student in this class this term, you probably want the lecture notes which are in [their own repository](https://github.com/spencerahill/stat-methods-book)
 
