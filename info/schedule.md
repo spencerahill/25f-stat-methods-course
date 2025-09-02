@@ -4,6 +4,11 @@ Here you can find the subject matter and assigned reading for every class day as
 
 Please check back here frequently as the schedule is subject to change.
 
+:::{admonition} Schedule last updated: 2025-09-02   
+The schedule is final for class up to and including **2025-09-08**.  For classes *after* this date, the schedule is **tentative**.
+:::
+
+
 ```{list-table}
 :header-rows: 1
 :name: schedule
@@ -27,7 +32,7 @@ Please check back here frequently as the schedule is subject to change.
   -
 * - 3
   - M 9/8
-  - Lecture 1: [Numeracy and data cleaning](../chapters/intro)
+  - Lecture 1: [Numeracy and data cleaning](https://spencerahill.github.io/stat-methods-book/chapters/intro.html)
   -
 * - 4 
   - W 9/10
@@ -35,7 +40,7 @@ Please check back here frequently as the schedule is subject to change.
   - 
 * - 5
   - M 9/15
-  - Lecture 2: [Descriptive Statistics](../chapters/descriptive-statistics)
+  - Lecture 2: [Descriptive Statistics and Data Visualization](https://spencerahill.github.io/stat-methods-book/chapters/descriptive-statistics.html)
   - 
 * - n/a
   - W 9/17
@@ -51,7 +56,7 @@ Please check back here frequently as the schedule is subject to change.
   - 
 * - 6
   - M 9/29
-  - Lab 2: generative AI tools
+  - Lab 2: plotting (matplotlib)
   - 
 * - n/a
   - W 10/1
@@ -59,11 +64,11 @@ Please check back here frequently as the schedule is subject to change.
   -
 * - 7
   - M 10/6
-  - Lecture 3: Data visualization
+  - Lecture 3: Probability theory
   - 
 * - 8
   - W 10/8
-  - Lab 3: plotting (matplotlib)
+  - Lab 3: fitting probability distribution to data (scipy)
   - 
 * - n/a
   - M 10/13 
@@ -71,11 +76,11 @@ Please check back here frequently as the schedule is subject to change.
   -
 * - 9
   - **T 10/14** *(note abnormal day of week)*
-  - Lecture 4a: Probability theory
+  - Lecture 4: Hypothesis tests
   - 
 * - 10 
   - W 10/15
-  - Lecture 4b: Probability distributions
+  - Lab 4: t-tests (statsmodels)
   -
 * - n/a
   - M 10/20
@@ -83,7 +88,7 @@ Please check back here frequently as the schedule is subject to change.
   -
 * - 11
   - W 10/22
-  - Lab 4: fitting distributions to data (scipy)
+  - Special Lab: generative AI tools
   -
 * - 12
   - **F 10/24** *(note abnormal day of week)*
@@ -91,19 +96,19 @@ Please check back here frequently as the schedule is subject to change.
   -
 * - 13
   - M 10/27
-  - Lecture 5: Hypothesis tests
+  - Lecture 5: Linear regression
   -
 * - 14
   - W 10/29
-  - Lab 5: t-tests (statsmodels) 
+  - Lab 5: linear regression (scikit-learn)
   - 
 * - 15
   - M 11/3
-  - Lecture 6: Linear regression
+  - Lecture 6: Extreme value analysis
   - 
 * - 16
   - W 11/5
-  - Lab 6: linear regression (scikit-learn)
+  - Lab 6: GEV fits (scipy)
   - 
 * - 17
   - M 11/10
@@ -111,7 +116,7 @@ Please check back here frequently as the schedule is subject to change.
   -
 * - 18
   - W 11/12
-  - Lab 7: timeseries analysis
+  - Lab 7: timeseries analysis (pandas; xarray)
   - 
 * - 19
   - M 11/17
@@ -119,7 +124,7 @@ Please check back here frequently as the schedule is subject to change.
   -
 * - 20
   - W 11/19
-  - Lab 8: spectral analysis
+  - Lab 8: spectral analysis (scipy)
   - 
 * - 21
   - M 11/24
@@ -150,8 +155,3 @@ Please check back here frequently as the schedule is subject to change.
   - Final project presentations
   -
 ```
-<!-- * - FINAL EXAM -->
-  <!-- - TBD; sometime within 12/16-12/22 -->
-  <!-- - Final grades posted 12/26 or earlier -->
-  <!-- - -->
-  <!-- - -->
