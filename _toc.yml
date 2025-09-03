@@ -15,7 +15,7 @@ parts:
   - caption: Assignments
     numbered: 0
     chapters:
-      - file: assignments/placeholder
+      - file: assignments/hw00_python-github
   - caption: Final Project
     numbered: 0
     chapters:
