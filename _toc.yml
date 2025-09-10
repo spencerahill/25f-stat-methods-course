@@ -16,6 +16,7 @@ parts:
     numbered: 0
     chapters:
       - file: assignments/hw00_python-github
+      - file: assignments/hw01_desc-stat-py-funcs
   - caption: Final Project
     numbered: 0
     chapters:
