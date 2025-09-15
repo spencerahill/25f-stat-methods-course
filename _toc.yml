@@ -12,6 +12,7 @@ parts:
       - file: info/resources
       - file: info/lecture-notes
       - file: info/announcements
+      - file: info/datasets
   - caption: Assignments
     numbered: 0
     chapters:
