@@ -17,6 +17,6 @@ For that reason, those live in their own, separate website [here](https://spence
 - Lab 1: (same materials as for Lab 0 above)
 
 ### Unit 2: Descriptive statistics and data visualization
-- Lecture 2: [descriptive statistics pptx](../slides/lecture-slides/25f-eas420_lec02_desc-stats.pptx), [data viz pptx](../slides/lecture-slides/25f-eas420_lec02b_data-viz.pptx)
-- Lab 2: coming soon
+- Lecture 2: [descriptive statistics pptx](../slides/lecture-slides/25f-eas420_lec02_desc-stats.pptx),
+<!-- - Lab 2: [data visualization pptx](../slides/lecture-slides/25f-eas420_lec02b_data-viz.pptx) -->
 

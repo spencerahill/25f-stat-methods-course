@@ -4,8 +4,8 @@ Here you can find the subject matter and assigned reading for every class day as
 
 Please check back here frequently as the schedule is subject to change.
 
-:::{admonition} Schedule last updated: 2025-09-02   
-The schedule is final for class up to and including **2025-09-08**.  For classes *after* this date, the schedule is **tentative**.
+:::{admonition} Schedule last updated: 2025-09-29   
+The schedule is final for class up to and including **2025-10-06**.  For classes *after* this date, the schedule is **tentative**.
 :::
 
 
@@ -28,7 +28,7 @@ The schedule is final for class up to and including **2025-09-08**.  For classes
   -
 * - 2
   - W 9/3
-  - Lab 0: Python basics; Jupyter and colab 
+  - Lab 0: Python basics I; Jupyter and colab 
   -
 * - 3
   - M 9/8
@@ -36,11 +36,11 @@ The schedule is final for class up to and including **2025-09-08**.  For classes
   -
 * - 4 
   - W 9/10
-  - Lab 1: arrays (numpy, pandas, xarray)
+  - Lab 1: Python basics II
   - 
 * - 5
   - M 9/15
-  - Lecture 2: [Descriptive Statistics and Data Visualization](https://spencerahill.github.io/stat-methods-book/chapters/descriptive-statistics.html)
+  - Lecture 2: [Descriptive Statistics](https://spencerahill.github.io/stat-methods-book/chapters/descriptive-statistics.html)
   - 
 * - n/a
   - W 9/17
