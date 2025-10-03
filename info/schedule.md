@@ -29,7 +29,7 @@ The schedule is final for class up to and including **2025-10-06**.  For classes
 * - 2
   - W 9/3
   - Lab 0: Python basics I; Jupyter and colab 
-  -
+  - [HW00](../assignments/hw00_python-github) assigned; due 2025-09-10)
 * - 3
   - M 9/8
   - Lecture 1: [Numeracy and data cleaning](https://spencerahill.github.io/stat-methods-book/chapters/intro.html)
@@ -37,7 +37,7 @@ The schedule is final for class up to and including **2025-10-06**.  For classes
 * - 4 
   - W 9/10
   - Lab 1: Python basics II
-  - 
+  - [HW01](../assignments/hw01_desc-stat-py-funcs) assigned; due 2025-09-28)
 * - 5
   - M 9/15
   - Lecture 2: [Descriptive Statistics](https://spencerahill.github.io/stat-methods-book/chapters/descriptive-statistics.html)
@@ -57,7 +57,7 @@ The schedule is final for class up to and including **2025-10-06**.  For classes
 * - 6
   - M 9/29
   - Lab 2: plotting (matplotlib)
-  - 
+  - [HW02](../assignments/hw02_data-viz) assigned; due 2025-10-07)
 * - n/a
   - W 10/1
   - NO CLASS (Yom Kippur)
