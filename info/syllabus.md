@@ -113,9 +113,13 @@ Earning an A+ would guarantee that, if you ever needed a letter of recommendatio
 ## Course materials
 This is a zero-cost class: there are no required textbooks to buy, and all the software that we will use is free and open-source.  (You do need a computer, however.  If you do not have one, see the "Laptop loaner program" information further below.)
 
-That said, there are many great resources available to you that will further assist you.  See the [Resources](./resources) page of this course website for a list of some recommendations.
+All of the material that will appear in HW assignments or exams will be included in the powerpoint lecture slides posted on [this page](./lecture-notes.md).  
 
-The resource that I will draw on most directly is the textbook [*Statistical Methods for Climate Scientists*](https://ccny.textbookx.com/institutional/index.php?action=browse#/books/3839701/) by Timothy DelSole and Michael Tippett.  But again, this is NOT required.
+There is also an under-construction [free online book](https://spencerahill.github.io/stat-methods-book) presenting the material in a different format compared to the powerpoint slides.  However, except for the [first chapter](https://spencerahill.github.io/stat-methods-book/chapters/intro.html), that online book is still mostly very much under construction, such that it might not be as helpful.  **To reiterate: all the information required for any exam or assignment is in the posted slides for the in-class lectures and labs.**
+
+Note: because there is no required textbook, the slides contain both material that is really crucial as well as additional material that is more "background" or "if you're still interested".  Exams and assignments will predominantly draw from the more central material.  How to tell which is which?  Come to class!
+
+Beyond these, there are many great resources available to you that will further assist you.  See the [Resources](./resources) page of this course website for a list of some recommendations.  In particular, the resource that I will draw on most directly is the textbook [*Statistical Methods for Climate Scientists*](https://ccny.textbookx.com/institutional/index.php?action=browse#/books/3839701/) by Timothy DelSole and Michael Tippett.  But again, this is NOT required.
 
 
 ## Academic Integrity
