@@ -4,8 +4,8 @@ Here you can find the subject matter and assigned reading for every class day as
 
 Please check back here frequently as the schedule is subject to change.
 
-:::{admonition} Schedule last updated: 2025-09-29   
-The schedule is final for class up to and including **2025-10-06**.  For classes *after* this date, the schedule is **tentative**.
+:::{admonition} Schedule last updated: 2025-10-08
+The schedule is final for class up to and including **2025-10-15**.  For classes *after* this date, the schedule is **tentative**.
 :::
 
 
@@ -68,19 +68,19 @@ The schedule is final for class up to and including **2025-10-06**.  For classes
   - 
 * - 8
   - W 10/8
-  - Lab 3: fitting probability distribution to data (scipy)
-  - 
+  - Lab 3: computing empiricial PDFs and CDFs (numpy, scipy)
+  - [HW03](../assignments/hw03_) assigned; due 2025-10-15)
 * - n/a
   - M 10/13 
   - NO CLASS (Columbus Day)
   -
 * - 9
   - **T 10/14** *(note abnormal day of week)*
-  - Lecture 4: Hypothesis tests
+  - Lecture 4: Probability distributions (including for extreme values)
   - 
 * - 10 
   - W 10/15
-  - Lab 4: t-tests (statsmodels)
+  - Lab 4: fitting probability distribution to data, including for extreme values (scipy)
   -
 * - n/a
   - M 10/20
@@ -104,11 +104,11 @@ The schedule is final for class up to and including **2025-10-06**.  For classes
   - 
 * - 15
   - M 11/3
-  - Lecture 6: Extreme value analysis
+  - Lecture 6: Hypothesis tests
   - 
 * - 16
   - W 11/5
-  - Lab 6: GEV fits (scipy)
+  - Lab 6: t-tests (statsmodels)
   - 
 * - 17
   - M 11/10
