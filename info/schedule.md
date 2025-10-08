@@ -69,7 +69,7 @@ The schedule is final for class up to and including **2025-10-15**.  For classes
 * - 8
   - W 10/8
   - Lab 3: computing empiricial PDFs and CDFs (numpy, scipy)
-  - [HW03](../assignments/hw03_probability) assigned; due 2025-10-15)
+  - [HW03](../assignments/hw03_probability) assigned; due 2025-10-14)
 * - n/a
   - M 10/13 
   - NO CLASS (Columbus Day)
