@@ -19,6 +19,7 @@ parts:
       - file: assignments/hw00_python-github
       - file: assignments/hw01_desc-stat-py-funcs
       - file: assignments/hw02_data-viz
+      - file: assignments/hw03_probability
   - caption: Final Project
     numbered: 0
     chapters:
