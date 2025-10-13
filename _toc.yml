@@ -9,9 +9,9 @@ parts:
     chapters: 
       - file: info/syllabus
       - file: info/schedule
-      - file: info/resources
       - file: info/lecture-notes
       - file: info/datasets
+      - file: info/resources
   - caption: Assignments
     numbered: 0
     chapters:
@@ -19,6 +19,10 @@ parts:
       - file: assignments/hw01_desc-stat-py-funcs
       - file: assignments/hw02_data-viz
       - file: assignments/hw03_probability
+  - caption: Labs
+    numbered: 0
+    chapters:
+      - file: labs/lab03_empirical-probs-cdfs-pdfs.ipynb
   - caption: Final Project
     numbered: 0
     chapters:
