@@ -5,7 +5,7 @@ channels:
   - conda-forge
 dependencies:
   # Python
-  - python
+  - python=3.13
   # Scientific python
   - numpy
   - scipy
