@@ -3,8 +3,41 @@ name: Build & deploy Jupyter Book to GitHub Pages
 on:
   push:
     branches: [ main ]
+    paths:
+      - 'info/*.ipynb'
+      - 'info/*.md'
+      - 'assignments/*.ipynb'
+      - 'assignments/*.md'
+      - 'labs/*.ipynb'
+      - 'labs/*.md'
+      - 'final-project/*.ipynb'
+      - 'final-project/*.md'
+      - '**/*.css'
+      - 'data/**'
+      - '_config.yml'
+      - '_toc.yml'
+      - 'home.md'
+      - 'environment.ci.yml'
+      - '.github/workflows/pages.yml'
+
   pull_request:
     branches: [ main ]
+    paths:
+      - 'info/*.ipynb'
+      - 'info/*.md'
+      - 'assignments/*.ipynb'
+      - 'assignments/*.md'
+      - 'labs/*.ipynb'
+      - 'labs/*.md'
+      - 'final-project/*.ipynb'
+      - 'final-project/*.md'
+      - '**/*.css'
+      - 'data/**'
+      - '_config.yml'
+      - '_toc.yml'
+      - 'home.md'
+      - 'environment.ci.yml'
+      - '.github/workflows/pages.yml'
 
   workflow_dispatch:
 
