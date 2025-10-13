@@ -6,10 +6,10 @@ on:
     paths:
       - 'info/*.ipynb'
       - 'info/*.md'
-      - 'assignments/*.ipynb'
-      - 'assignments/*.md'
       - 'labs/*.ipynb'
       - 'labs/*.md'
+      - 'assignments/*.ipynb'
+      - 'assignments/*.md'
       - 'final-project/*.ipynb'
       - 'final-project/*.md'
       - '**/*.css'
@@ -68,7 +68,7 @@ jobs:
 
       - name: Build Jupyter Book
         shell: bash -l {0}
-        run: jupyter-book build .
+        run: jupyter-book build .  --timeout 120
 
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
