@@ -23,4 +23,4 @@ However, these are a work in progress; for many chapters they are kind of just a
 
 ### Unit 3: Probability theory
 - Lecture 3: [probability theory pptx](../slides/lecture-slides/25f-eas420_lec03_prob-theory.pptx)
-- Lab 3: coming soon
+- Lab 3: [empirical probability Jupyter notebook](../labs/lab03_empirical-probs-cdfs-pdfs)
