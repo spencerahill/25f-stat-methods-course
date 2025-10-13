@@ -68,7 +68,7 @@ jobs:
 
       - name: Build Jupyter Book
         shell: bash -l {0}
-        run: jupyter-book build .  --timeout 120
+        run: jupyter-book build .
 
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
