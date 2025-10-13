@@ -1,11 +1,11 @@
 # Book settings
 # Learn more at https://jupyterbook.org/customize/config.html
 
-title: Fall 2025 CCNY EAS 42000/A4200
+title: Fall 2025 CCNY EAS 42000/A4200 
 author: Spencer A. Hill
 logo: logo.png
 
-# Only build files listed in the TOC
+# Only build files listed in the TOC (i.e. exclude unfinished/"draft" files)
 only_build_toc_files: true
 
 # execute: see https://jupyterbook.org/content/execute.html
@@ -25,22 +25,22 @@ parse:
   myst_url_schemes: [mailto, http, https]
   myst_dmath_double_inline: true
 
-# Define the name of the latex output file for PDF builds
-latex:
-  latex_documents:
-    targetname: stat-methods-earth-atmos-sci.tex
+# Define the name of the latex output file for PDF builds  (SAH: someday/maybe implement this; comment out until then)
+# latex:
+#   latex_documents:
+#     targetname: stat-methods-earth-atmos-sci.tex
 
-# Add a bibtex file so that we can create citations
+# Add a bibtex file so that we can create citations (SAH: someday/maybe implement this; comment out until then)
 # bibtex_bibfiles:
   # - references.bib
 
 # Information about where the book exists on the web
 repository:
-  url: https://github.com/spencerahill/stat-methods-course
-  path_to_book: docs  # Optional path to your book, relative to the repository root
+  url: https://spencerahill.github.io/25f-stat-methods-course
+  # path_to_book: chapters  # Optional path to your book, relative to the repository root
   branch: main  # Which branch of the repository should be used when creating links (optional)
 
-# Add binder launch button
+# Add binder launch button (SAH: someday/maybe implement this; commented out until then)
 # launch_buttons:
   # binderhub_url: https://mybinder.org/v2/gh/spencerahill/stat-methods-course/main
 
