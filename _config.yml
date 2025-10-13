@@ -13,6 +13,8 @@ execute:
   # 'auto': Execute notebooks that have been modified
   execute_notebooks: auto
   stderr_output: severe
+  timeout: 120  # default 60s; increase to 120 for GH Actions
+
 
 # MyST extensions.
 parse:
