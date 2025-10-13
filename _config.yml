@@ -43,9 +43,10 @@ repository:
   # path_to_book: chapters  # Optional path to your book, relative to the repository root
   branch: main  # Which branch of the repository should be used when creating links (optional)
 
-# Add binder launch button (SAH: someday/maybe implement this; commented out until then)
-# launch_buttons:
-  # binderhub_url: https://mybinder.org/v2/gh/spencerahill/stat-methods-course/main
+launch_buttons:
+  colab_url: "https://colab.research.google.com"
+  # Add binder launch button (SAH: someday/maybe implement this; commented out until then)
+  # binderhub_url: https://mybinder.org/v2/gh/spencerahill/stat-methods-course/main  
 
 # Add GitHub buttons to your book
 # See https://jupyterbook.org/customize/config.html#add-a-link-to-your-repository
