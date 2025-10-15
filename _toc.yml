@@ -19,12 +19,14 @@ parts:
       - file: assignments/hw01_desc-stat-py-funcs
       - file: assignments/hw02_data-viz
       - file: assignments/hw03_probability
+      - file: assignments/hw04_prob-dists
   - caption: Labs
     numbered: 0
     chapters:
-      - file: labs/lab03_empirical-probs-cdfs-pdfs.ipynb
+      - file: labs/lab03_empirical-probs-cdfs-pdfs
+      - file: labs/lab04_prob-dist-fits
   - caption: Final Project
     numbered: 0
     chapters:
-      - file: final-project/placeholder
+      - file: final-project/final-project
 
