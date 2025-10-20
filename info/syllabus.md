@@ -43,7 +43,7 @@ This does not apply to cases of unexpected emergencies etc. that arise during th
 * - Midterms
   - 40% (20% Midterm #1, 20% Midterm #2)
 * - Final project
-  - 35% (15% submitted report; 5% in-class presentation; 10% live demo)
+  - 35% (20% submitted report; 5% in-class presentation; 10% live demo)
 * - Participation
   - 0% to 5%
 ```
