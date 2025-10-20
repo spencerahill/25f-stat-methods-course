@@ -25,6 +25,11 @@ parts:
     chapters:
       - file: labs/lab03_empirical-probs-cdfs-pdfs
       - file: labs/lab04_prob-dist-fits
+  - caption: Exams
+    numbered: 0
+    chapters:
+      - file: exams/midterm1.md
+
   - caption: Final Project
     numbered: 0
     chapters:
