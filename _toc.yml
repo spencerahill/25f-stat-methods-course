@@ -25,6 +25,7 @@ parts:
     chapters:
       - file: labs/lab03_empirical-probs-cdfs-pdfs
       - file: labs/lab04_prob-dist-fits
+      - file: labs/lab_genai
   - caption: Exams
     numbered: 0
     chapters:
