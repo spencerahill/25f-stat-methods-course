@@ -25,6 +25,10 @@ However, these are a work in progress; for many chapters they are kind of just a
 - Lecture 3: [probability theory pptx](../slides/lecture-slides/25f-eas420_lec03_prob-theory.pptx)
 - Lab 3: [empirical probability Jupyter notebook](../labs/lab03_empirical-probs-cdfs-pdfs)
 
-### Unit 3: Probability distributions
-- Lecture 3: [probability distributions pptx](../slides/lecture-slides/25f-eas420_lec04_prob-dists.pptx)
+### Unit 4: Probability distributions
+- Lecture 4: [probability distributions pptx](../slides/lecture-slides/25f-eas420_lec04_prob-dists.pptx)
 - Lab 4: [fitting probability distributions Jupyter notebook](../labs/lab04_prob-dist-fits)
+
+### Unit 5: Linear regression
+- Lecture 5: [linear regression pptx](../slides/lecture-slides/25f-eas420_lec05_lin-regress.pptx)
+
