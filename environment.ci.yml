@@ -9,16 +9,18 @@ dependencies:
   # Scientific python
   - numpy
   - scipy
+  - pandas
   - xarray
   - netcdf4
-  # - nc-time-axis
-  # - flox
+  - nc-time-axis
+  - flox
   # Jupyter
   - jupyter-book
   - ipykernel
   # Plotting
   - matplotlib 
-  # - hvplot
-  # - panel
-  # - jupyter_bokeh
-
+  - hvplot
+  - panel
+  - jupyter_bokeh
+  # Misc.
+  - pooch  # For downloading datasets from web
