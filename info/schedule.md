@@ -4,8 +4,8 @@ Here you can find the subject matter and assigned reading for every class day as
 
 Please check back here frequently as the schedule is subject to change.
 
-:::{admonition} Schedule last updated: 2025-10-08
-The schedule is final for class up to and including **2025-10-15**.  For classes *after* this date, the schedule is **tentative**.
+:::{admonition} Schedule last updated: 2025-10-27
+The schedule is final for class up to and including **2025-11-03**.  For lectures and labs *after* this date, the schedule is **tentative**.  (Whereas the dates of exams, canceled/special class meetings, and final presentations **are** fixed.)
 :::
 
 
@@ -81,7 +81,7 @@ The schedule is final for class up to and including **2025-10-15**.  For classes
 * - 10 
   - W 10/15
   - Lab 4: fitting probability distribution to data, including for extreme values (scipy)
-  -
+  - [HW04](../assignments/hw04_prob-dists) assigned; due 2025-10-22)
 * - n/a
   - M 10/20
   - NO CLASS (CCNY closed)
@@ -93,7 +93,7 @@ The schedule is final for class up to and including **2025-10-15**.  For classes
 * - 12
   - **F 10/24** *(note abnormal day of week)*
   - **MIDTERM 1**
-  -
+  - see [MT1 review page here](../exams/midterm1)
 * - 13
   - M 10/27
   - Lecture 5: Linear regression
