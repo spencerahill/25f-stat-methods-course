@@ -20,12 +20,14 @@ parts:
       - file: assignments/hw02_data-viz
       - file: assignments/hw03_probability
       - file: assignments/hw04_prob-dists
+      - file: assignments/hw05_lin-regress
   - caption: Labs
     numbered: 0
     chapters:
       - file: labs/lab03_empirical-probs-cdfs-pdfs
       - file: labs/lab04_prob-dist-fits
       - file: labs/lab_genai
+      - file: labs/lab05_lin-regress
   - caption: Exams
     numbered: 0
     chapters:
