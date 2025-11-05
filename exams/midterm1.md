@@ -1,21 +1,24 @@
-# Midterm 1 study guide
-This page provides a list of the key concepts that you should focus your studying on for this exam.  Definitions for some, but not all, of the key concepts are provided at the bottom of the page in a glossary.
+
+# Midterm 1
+
+Answer key for MT1: [here](./25f_eas420_midterm1_KEY.pdf)
 
 ## Exam logistics
 
 - **FRIDAY, October 24th**, 2-3:15pm, MR 1128
 - 100% closed to all resources: notes, books, internet, classmates
-<!-- - *unlabeled* list of key equations will be provided -->
-<!-- - Mostly multiple choice; one or more short answer -->
-<!-- - Roughly same length as midterm -->
 
-## Unit 00: Introduction
+## Study guide
+This page provides a list of the key concepts that you should focus your studying on for this exam.  Definitions for some, but not all, of the key concepts are provided at the bottom of the page in a glossary.
+
+
+### Unit 00: Introduction
 
 <!-- {term}`inverse square law`: dependence of stellar radiation, in $\text{W m}^{-2}$, on a star’s luminosity and orbital distance -->
 
 Why we need statistical methods / quantitative data analysis methods
 
-## Unit 01: Numeracy and data cleaning
+### Unit 01: Numeracy and data cleaning
 
 {term}`numeracy`
 
@@ -29,7 +32,7 @@ Components of *numerate* claims:
 
 Looking out for and dealing with spurious values
 
-## Unit 02: Descriptive statistics and data visualization
+### Unit 02: Descriptive statistics and data visualization
 
 Measures of central tendency: {term}`mean`, {term}`median`, {term}`mode`
 
@@ -41,7 +44,7 @@ Measures of shape: `term`{skewness}, `term`{kurtosis}
 
 Plot types and their interpretation: box and whiskers; histograms; scatter plots; timeseries
 
-## Unit 03: Probability theory
+### Unit 03: Probability theory
 
 The three axioms of probability
 
@@ -73,7 +76,7 @@ Frequentist vs. Bayesian interpretations of probability
 
 Empirical probabilities
 
-## Unit 04: Probability distributions (and populations vs. samples)
+### Unit 04: Probability distributions (and populations vs. samples)
 
 Types of data: continuous vs. discrete
 
@@ -95,7 +98,7 @@ Central Limit Theorem: the sum of a large number of IID random variables will be
 
 Populations vs samples.  Samples: the values we get.  Population: the distribution from which the sample values we get were *drawn from*.  We're always trying to infer the properties of the population; but we almost always only have access to the samples.
 
-## Glossary (incomplete)
+### Glossary (incomplete)
 ```{glossary}
 coefficient of variation
   The `term`{standard deviation} divided by the `term`{mean}.
