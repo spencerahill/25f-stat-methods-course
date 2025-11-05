@@ -4,8 +4,8 @@ Here you can find the subject matter and assigned reading for every class day as
 
 Please check back here frequently as the schedule is subject to change.
 
-:::{admonition} Schedule last updated: 2025-10-27
-The schedule is final for class up to and including **2025-11-03**.  For lectures and labs *after* this date, the schedule is **tentative**.  (Whereas the dates of exams, canceled/special class meetings, and final presentations **are** fixed.)
+:::{admonition} Schedule last updated: 2025-11-05
+The schedule is final for class up to and including **2025-11-12**.  For lectures and labs *after* this date, the schedule is **tentative**.  (Whereas the dates of exams, canceled/special class meetings, and final presentations **are** fixed.)
 :::
 
 
@@ -100,15 +100,15 @@ The schedule is final for class up to and including **2025-11-03**.  For lecture
   -
 * - 14
   - W 10/29
-  - Lab 5: linear regression (scikit-learn)
-  - 
+  - Lab 5: linear regression (pandas)
+  - [HW05](../assignments/hw04_lin-regress) assigned; due 2025-11-05)
 * - 15
   - M 11/3
   - Lecture 6: Hypothesis tests
   - 
 * - 16
   - W 11/5
-  - Lab 6: t-tests (statsmodels)
+  - Lab 6: t-tests
   - 
 * - 17
   - M 11/10
@@ -116,7 +116,7 @@ The schedule is final for class up to and including **2025-11-03**.  For lecture
   -
 * - 18
   - W 11/12
-  - Lab 7: timeseries analysis (pandas; xarray)
+  - Lab 7: timeseries analysis
   - 
 * - 19
   - M 11/17
@@ -124,7 +124,7 @@ The schedule is final for class up to and including **2025-11-03**.  For lecture
   -
 * - 20
   - W 11/19
-  - Lab 8: spectral analysis (scipy)
+  - Lab 8: spectral analysis
   - 
 * - 21
   - M 11/24
