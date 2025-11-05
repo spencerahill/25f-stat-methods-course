@@ -21,6 +21,7 @@ parts:
       - file: assignments/hw03_probability
       - file: assignments/hw04_prob-dists
       - file: assignments/hw05_lin-regress
+      - file: assignments/hw06_hypoth-tests
   - caption: Labs
     numbered: 0
     chapters:
