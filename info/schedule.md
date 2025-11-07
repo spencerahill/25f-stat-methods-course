@@ -29,7 +29,7 @@ The schedule is final for class up to and including **2025-11-12**.  For lecture
 * - 2
   - W 9/3
   - Lab 0: Python basics I; Jupyter and colab 
-  - [HW00](../assignments/hw00_python-github) assigned; due 2025-09-10)
+  - [HW00](../hw/hw00_python-github) assigned; due 2025-09-10)
 * - 3
   - M 9/8
   - Lecture 1: [Numeracy and data cleaning](https://spencerahill.github.io/stat-methods-book/chapters/intro.html)
@@ -37,7 +37,7 @@ The schedule is final for class up to and including **2025-11-12**.  For lecture
 * - 4 
   - W 9/10
   - Lab 1: Python basics II
-  - [HW01](../assignments/hw01_desc-stat-py-funcs) assigned; due 2025-09-28)
+  - [HW01](../hw/hw01_desc-stat-py-funcs) assigned; due 2025-09-28)
 * - 5
   - M 9/15
   - Lecture 2: [Descriptive Statistics](https://spencerahill.github.io/stat-methods-book/chapters/descriptive-statistics.html)
@@ -57,7 +57,7 @@ The schedule is final for class up to and including **2025-11-12**.  For lecture
 * - 6
   - M 9/29
   - Lab 2: plotting (matplotlib)
-  - [HW02](../assignments/hw02_data-viz) assigned; due 2025-10-07)
+  - [HW02](../hw/hw02_data-viz) assigned; due 2025-10-07)
 * - n/a
   - W 10/1
   - NO CLASS (Yom Kippur)
@@ -69,7 +69,7 @@ The schedule is final for class up to and including **2025-11-12**.  For lecture
 * - 8
   - W 10/8
   - Lab 3: computing empiricial PDFs and CDFs (numpy, scipy)
-  - [HW03](../assignments/hw03_probability) assigned; due 2025-10-14)
+  - [HW03](../hw/hw03_probability) assigned; due 2025-10-14)
 * - n/a
   - M 10/13 
   - NO CLASS (Columbus Day)
@@ -81,7 +81,7 @@ The schedule is final for class up to and including **2025-11-12**.  For lecture
 * - 10 
   - W 10/15
   - Lab 4: fitting probability distribution to data, including for extreme values (scipy)
-  - [HW04](../assignments/hw04_prob-dists) assigned; due 2025-10-22)
+  - [HW04](../hw/hw04_prob-dists) assigned; due 2025-10-22)
 * - n/a
   - M 10/20
   - NO CLASS (CCNY closed)
@@ -101,7 +101,7 @@ The schedule is final for class up to and including **2025-11-12**.  For lecture
 * - 14
   - W 10/29
   - Lab 5: linear regression (pandas)
-  - [HW05](../assignments/hw04_lin-regress) assigned; due 2025-11-05)
+  - [HW05](../hw/hw04_lin-regress) assigned; due 2025-11-05)
 * - 15
   - M 11/3
   - Lecture 6: Hypothesis tests

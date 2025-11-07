@@ -15,13 +15,13 @@ parts:
   - caption: Assignments
     numbered: 0
     chapters:
-      - file: assignments/hw00_python-github
-      - file: assignments/hw01_desc-stat-py-funcs
-      - file: assignments/hw02_data-viz
-      - file: assignments/hw03_probability
-      - file: assignments/hw04_prob-dists
-      - file: assignments/hw05_lin-regress
-      - file: assignments/hw06_hypoth-tests
+      - file: hw/hw00_python-github
+      - file: hw/hw01_desc-stat-py-funcs
+      - file: hw/hw02_data-viz
+      - file: hw/hw03_probability
+      - file: hw/hw04_prob-dists
+      - file: hw/hw05_lin-regress
+      - file: hw/hw06_hypoth-tests
   - caption: Labs
     numbered: 0
     chapters:
@@ -29,6 +29,7 @@ parts:
       - file: labs/lab04_prob-dist-fits
       - file: labs/lab_genai
       - file: labs/lab05_lin-regress
+      - file: labs/lab06_hyp-tests
   - caption: Exams
     numbered: 0
     chapters:
