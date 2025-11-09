@@ -8,27 +8,30 @@ However, these are a work in progress; for many chapters they are kind of just a
 
 ## Materials from in-class lectures and labs
 
-### Unit 0: Introduction
+### Unit 00: Introduction
 - Lecture 0: [slides pptx](../slides/lecture-slides/25f-eas420_lec00_intro.pptx)
 - Lab 0: [slides pptx](../slides/lab-slides/25f-eas420_lab00_python.pptx)
 
-### Unit 1: Numeracy and data cleaning
+### Unit 01: Numeracy and data cleaning
 - Lecture 1: [slides pptx](../slides/lecture-slides/25f-eas420_lec01_numeracy.pptx)
 - Lab 1: (same materials as for Lab 0 above)
 
-### Unit 2: Descriptive statistics and data visualization
-- Lecture 2: [descriptive statistics pptx](../slides/lecture-slides/25f-eas420_lec02_desc-stats.pptx)
-- Lab 2: [data visualization pptx](../slides/lab-slides/25f-eas420_lab02_data-viz.pptx)
+### Unit 02: Descriptive statistics and data visualization
+- Lecture: [slides pptx](../slides/lecture-slides/25f-eas420_lec02_desc-stats.pptx)
+- Lab: [slides pptx](../slides/lab-slides/25f-eas420_lab02_data-viz.pptx)
 
+### Unit 03: Probability theory
+- Lecture: [slides pptx](../slides/lecture-slides/25f-eas420_lec03_prob-theory.pptx)
+- Lab: [Jupyter notebook](../labs/lab03_empirical-probs-cdfs-pdfs)
 
-### Unit 3: Probability theory
-- Lecture 3: [probability theory pptx](../slides/lecture-slides/25f-eas420_lec03_prob-theory.pptx)
-- Lab 3: [empirical probability Jupyter notebook](../labs/lab03_empirical-probs-cdfs-pdfs)
+### Unit 04: Probability distributions
+- Lecture: [slides pptx](../slides/lecture-slides/25f-eas420_lec04_prob-dists.pptx)
+- Lab: [Jupyter notebook](../labs/lab04_prob-dist-fits)
 
-### Unit 4: Probability distributions
-- Lecture 4: [probability distributions pptx](../slides/lecture-slides/25f-eas420_lec04_prob-dists.pptx)
-- Lab 4: [fitting probability distributions Jupyter notebook](../labs/lab04_prob-dist-fits)
+### Unit 05: Linear regression
+- Lecture: [slides pptx](../slides/lecture-slides/25f-eas420_lec05_lin-regress.pptx)
+- Lab: [Jupyter notebook](../labs/lab05_lin-regress)
 
-### Unit 5: Linear regression
-- Lecture 5: [linear regression pptx](../slides/lecture-slides/25f-eas420_lec05_lin-regress.pptx)
-
+### Unit 06: Hypothesis testing
+- Lecture: [slides pptx](../slides/lecture-slides/25f-eas420_lec06_hyp-tests.pptx)
+- Lab: [Jupyter notebook](../labs/lab06_hyp-tests)
