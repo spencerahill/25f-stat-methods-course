@@ -15,6 +15,7 @@ parts:
   - caption: Assignments
     numbered: 0
     chapters:
+      - file: hw/self-grading
       - file: hw/hw00_python-github
       - file: hw/hw01_desc-stat-py-funcs
       - file: hw/hw02_data-viz
@@ -22,6 +23,7 @@ parts:
       - file: hw/hw04_prob-dists
       - file: hw/hw05_lin-regress
       - file: hw/hw06_hypoth-tests
+      - file: hw/hw07_timeseries
   - caption: Labs
     numbered: 0
     chapters:
@@ -30,6 +32,7 @@ parts:
       - file: labs/lab_genai
       - file: labs/lab05_lin-regress
       - file: labs/lab06_hyp-tests
+      - file: labs/lab07_autoreg-models
   - caption: Exams
     numbered: 0
     chapters:
