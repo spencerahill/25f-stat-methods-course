@@ -3,10 +3,8 @@
 ROOTDIR := .
 
 clean:
-	jb clean -a $(ROOTDIR)
+	jupyter book clean --all $(ROOTDIR)
 
-build:
-	PYDEVD_DISABLE_FILE_VALIDATION=1 jb build $(ROOTDIR)
+start:
+	jupyter book start
 
-open: build
-	open $(ROOTDIR)/_build/html/index.html
