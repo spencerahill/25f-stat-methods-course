@@ -56,9 +56,11 @@ project:
 site:
   options:
     only_build_toc_files: true
+    output_matplotlib_strings: remove
     launch_buttons:
       colab_url: "https://colab.research.google.com"
-    output_matplotlib_strings: remove
+    # logo: logo.png
+    logo_text: "Fall 2025 CCNY EAS 42000/A4200"
   template: book-theme
-  #   favicon: favicon.ico
-  #   logo: site_logo.png
+    #   favicon: favicon.ico    
+
