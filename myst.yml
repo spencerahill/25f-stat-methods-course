@@ -1,0 +1,64 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  id: b47768fe-bffa-4166-ba02-c5b64a0f695b
+  title: Fall 2025 CCNY EAS 42000/A4200 
+  description: Quantitative Earth Science Data Analysis
+  # keywords: []
+  authors: [Spencer A. Hill]
+  copyright: "2025"
+  github: spencerahill/25f-stat-methods-course
+  # parse:
+  #   myst_enable_extensions:
+  #     - amsmath
+  #     - dollarmath
+  #     - colon_fence
+  #     - linkify
+  #     - substitution
+  #   myst_url_schemes: [mailto, http, https]
+  #   myst_dmath_double_inline: true
+  settings:
+    output_matplotlib_strings: remove
+  toc:
+    - file: home.md
+    - title: Course Information
+      children: 
+        - file: info/syllabus.md
+        - file: info/schedule.md
+        - file: info/lecture-notes.md
+        - file: info/datasets.md
+        - file: info/resources.md
+    - title: Assignments
+      children:
+        - file: hw/self-grading.md
+        - file: hw/hw00_python-github.ipynb
+        - file: hw/hw01_desc-stat-py-funcs.ipynb
+        - file: hw/hw02_data-viz.ipynb
+        - file: hw/hw03_probability.ipynb
+        - file: hw/hw04_prob-dists.ipynb
+        - file: hw/hw05_lin-regress.ipynb
+        - file: hw/hw06_hypoth-tests.ipynb
+        # - file: hw/hw07_timeseries.ipynb
+    - title: Labs
+      children:
+        - file: labs/lab03_empirical-probs-cdfs-pdfs.ipynb
+        - file: labs/lab04_prob-dist-fits.ipynb
+        - file: labs/lab_genai.ipynb
+        - file: labs/lab05_lin-regress.ipynb
+        - file: labs/lab06_hyp-tests.ipynb
+        - file: labs/lab07_autoreg-models.ipynb
+    - title: Exams
+      children:
+        - file: exams/midterm1.md
+    - title: Final Project
+      children:
+        - file: final-project/final-project.ipynb
+site:
+  options:
+    only_build_toc_files: true
+    launch_buttons:
+      colab_url: "https://colab.research.google.com"
+    output_matplotlib_strings: remove
+  template: book-theme
+  #   favicon: favicon.ico
+  #   logo: site_logo.png
