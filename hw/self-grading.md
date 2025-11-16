@@ -38,9 +38,9 @@ Starting with HW07, you will not receive *any* credit for the assignment if you 
 For each HW assignment, when the answer key gets posted, there will also be posted a link for where you submit your self-graded score along with your corrections.  The due date for submitting these scores and corrections will be posted at the same time.
 
 ## Special instructions for Fall 2025
-These instructions were posted late in the semester, after the due dates for HWs 00 through 06.  For all six of those assignments, there will be one single Google Form where you'll submit your corrections and grade for each. 
+These instructions were posted late in the semester, after the due dates for HWs 01 through 06.  For all five of those assignments, there will be one single Google Form where you'll submit your corrections and grade for each.  (HW00 was purely completion-based.) 
 
-**For HW00 through HW06, there is one single form, available [here](https://forms.gle/aSu9z5Xg11cxHGzN8).  Submit the form once per assignment.**
+**For HW01 through HW06, there is one single form, available [here](https://forms.gle/aSu9z5Xg11cxHGzN8).  Submit the form once per assignment.**
 
-**For HW00 through HW06 only, because of the delay in providing these self-grading and correction instructions, the corrections are *optional* and will earn you 10% extra credit.  For subsequent assignments the corrections will be *mandatory*, and you will not receive any credit for the assignment without them.**
+**For HW01 through HW06 only, because of the delay in providing these self-grading and correction instructions, the corrections are *optional* and will earn you 10% extra credit.  For subsequent assignments the corrections will be *mandatory*, and you will not receive any credit for the assignment without them.**
 
