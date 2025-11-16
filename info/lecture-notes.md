@@ -22,16 +22,20 @@ However, these are a work in progress; for many chapters they are kind of just a
 
 ### Unit 03: Probability theory
 - Lecture: [slides pptx](../slides/lecture-slides/25f-eas420_lec03_prob-theory.pptx)
-- Lab: [Jupyter notebook](../labs/lab03_empirical-probs-cdfs-pdfs)
+- Lab: [Jupyter notebook](../labs/lab03_empirical-probs-cdfs-pdfs.ipynb)
 
 ### Unit 04: Probability distributions
 - Lecture: [slides pptx](../slides/lecture-slides/25f-eas420_lec04_prob-dists.pptx)
-- Lab: [Jupyter notebook](../labs/lab04_prob-dist-fits)
+- Lab: [Jupyter notebook](../labs/lab04_prob-dist-fits.ipynb)
 
 ### Unit 05: Linear regression
 - Lecture: [slides pptx](../slides/lecture-slides/25f-eas420_lec05_lin-regress.pptx)
-- Lab: [Jupyter notebook](../labs/lab05_lin-regress)
+- Lab: [Jupyter notebook](../labs/lab05_lin-regress.ipynb)
 
 ### Unit 06: Hypothesis testing
 - Lecture: [slides pptx](../slides/lecture-slides/25f-eas420_lec06_hyp-tests.pptx)
-- Lab: [Jupyter notebook](../labs/lab06_hyp-tests)
+- Lab: [Jupyter notebook](../labs/lab06_hyp-tests.ipynb)
+
+### Unit 07: Timeseries
+- Lecture: [slides pptx](../slides/lecture-slides/25f-eas420_lec07_timeseries.pptx)
+- Lab: [Jupyter notebook](../labs/lab07_autoreg-models.ipynb)
