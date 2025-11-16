@@ -4,15 +4,14 @@ Here you can find the subject matter and assigned reading for every class day as
 
 Please check back here frequently as the schedule is subject to change.
 
-:::{admonition} Schedule last updated: 2025-11-05
-The schedule is final for class up to and including **2025-11-12**.  For lectures and labs *after* this date, the schedule is **tentative**.  (Whereas the dates of exams, canceled/special class meetings, and final presentations **are** fixed.)
+:::{admonition} Schedule last updated: 2025-11-14
+The schedule is final for class up to and including **2025-11-19**.  For lectures and labs *after* this date, the schedule is **tentative**.  (Whereas the dates of exams, canceled/special class meetings, and final presentations **are** fixed.)
 :::
 
 
 ```{list-table}
 :header-rows: 1
 :name: schedule
-:widths: 10 15 40 35
 
 * - Class number
   - Date (2025)
