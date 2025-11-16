@@ -8,8 +8,8 @@ Although the undergraduate (42000) and Master's (A4200) sections of this course 
 ## Course Information
 - **Class Times**: Mondays and Wednesdays, 2:00-3:15pm; full schedule [here](./schedule).  *Be advised: Marshak elevators are flaky, and so it can take a **long** time to get from the ground floor elevator lobby all the way up to the 11th floor.  Plan accordingly!*
 - **Location**: Marshak 1128.  *Be advised, I have no control over the thermostat, and depending on the day it can be very cold, very warm or in between!  Plan accordingly.*
-- **Course Website**: [https://spencerahill.github.io/stat-methods-course](https://spencerahill.github.io/stat-methods-course)
-- **Instructor**: [Spencer Hill](https://www.ccny.cuny.edu/profiles/spencer-hill), Assistant Professor, CCNY Dept. of Earth and Atmospheric Sciences
+- **Course Website**: [https://spencerahill.github.io/stat-methods-course](https://spencerahill.github.io/25f-stat-methods-course)
+- **Instructor**: [Spencer Hill](https://shill.ccny.cuny.edu/), Assistant Professor, CCNY Dept. of Earth and Atmospheric Sciences
 - **Email**: [shill1@ccny.cuny.edu](mailto:shill1@ccny.cuny.edu)
 - **Office Hours**: Tuesdays, 1:30 to 2:30pm, and by appointment, Marshak 733.
 
