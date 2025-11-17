@@ -28,7 +28,7 @@ project:
         - file: info/lecture-notes.md
         - file: info/datasets.md
         - file: info/resources.md
-    - title: Assignments
+    - title: Homework
       children:
         - file: hw/self-grading.md
         - file: hw/hw00_python-github.ipynb
@@ -39,6 +39,9 @@ project:
         - file: hw/hw05_lin-regress.ipynb
         - file: hw/hw06_hypoth-tests.ipynb
         # - file: hw/hw07_timeseries.ipynb
+    - title: Homework Answer Keys
+      children:
+        - file: hw-keys/key_hw04_prob-dists.ipynb
     - title: Labs
       children:
         - file: labs/lab03_empirical-probs-cdfs-pdfs.ipynb
