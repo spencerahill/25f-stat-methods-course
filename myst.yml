@@ -33,6 +33,7 @@ project:
     - title: Homework Answer Keys
       children:
         - file: hw-keys/key_hw04_prob-dists.ipynb
+        - file: hw-keys/key_hw05_lin-regress.ipynb
     - title: Labs
       children:
         - file: labs/lab03_empirical-probs-cdfs-pdfs.ipynb
