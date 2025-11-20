@@ -39,3 +39,7 @@ However, these are a work in progress; for many chapters they are kind of just a
 ### Unit 07: Timeseries
 - Lecture: [slides pptx](../lectures/25f-eas420_lec07_timeseries.pptx)
 - Lab: [Jupyter notebook](../labs/lab07_autoreg-models.ipynb)
+
+### Unit 08: Spectral analysis
+- Lecture and lab: [Jupyter notebook](https://spencerahill.github.io/stat-methods-book/chapters/spectral-analysis.html)
+
