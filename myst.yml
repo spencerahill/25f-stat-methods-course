@@ -4,19 +4,10 @@ project:
   id: b47768fe-bffa-4166-ba02-c5b64a0f695b
   title: Fall 2025 CCNY EAS 42000/A4200 
   description: Quantitative Earth Science Data Analysis
-  # keywords: []
   authors: [Spencer A. Hill]
   copyright: "2025"
   github: spencerahill/25f-stat-methods-course
-  # parse:
-  #   myst_enable_extensions:
-  #     - amsmath
-  #     - dollarmath
-  #     - colon_fence
-  #     - linkify
-  #     - substitution
-  #   myst_url_schemes: [mailto, http, https]
-  #   myst_dmath_double_inline: true
+  jupyter: true
   settings:
     output_matplotlib_strings: remove
   toc:
@@ -53,6 +44,7 @@ project:
     - title: Exams
       children:
         - file: exams/midterm1.md
+        - file: exams/midterm2.md
     - title: Final Project
       children:
         - file: final-project/final-project.ipynb
@@ -62,8 +54,7 @@ site:
     output_matplotlib_strings: remove
     launch_buttons:
       colab_url: "https://colab.research.google.com"
-    # logo: logo.png
     logo_text: "Fall 2025 CCNY EAS 42000/A4200"
   template: book-theme
-    #   favicon: favicon.ico    
+
 
