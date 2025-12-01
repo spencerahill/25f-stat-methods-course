@@ -32,6 +32,7 @@ project:
     - title: Homework Answer Keys
       children:
         - file: hw-keys/key_hw01_desc-stat-py-funcs.ipynb
+        - file: hw-keys/key_hw02_data-viz.ipynb
         - file: hw-keys/key_hw04_prob-dists.ipynb
         - file: hw-keys/key_hw05_lin-regress.ipynb
         - file: hw-keys/key_hw06_hypoth-tests.ipynb
