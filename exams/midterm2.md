@@ -1,7 +1,7 @@
 
 # Midterm 2
 
-Answer key for MT2: will be posted *after* the exam
+Answer key for MT2: [here](./25f-eas420_midterm2_ANSWER-KEY.pdf)
 
 ## Exam logistics
 
@@ -10,8 +10,6 @@ Answer key for MT2: will be posted *after* the exam
 
 ## Study guide
 This page provides a list of the key concepts that you should focus your studying on for this exam.
-<!-- Definitions for some, but not all, of the key concepts are provided at the bottom of the page in a glossary. -->
-
 
 ### Unit 05: Linear regression
 
@@ -50,12 +48,12 @@ Out-of-sample predictions: **assuming** the relationship stays the same as it is
 - Lots of flavors of linear regression
   - our focus is on **simple linear regression**: one independent/explanatory variable ("predictor") X, one dependent variable ("predictand") Y
   - And on **ordinary least squares** (OLS)
-- General expression: linear regression model $\tilde y=ax+b$, where $\tilde y$ is the predicted $y$, $x$ is the actual X-data, and $a$ and $b$ are coefficients determined via OLS
+- General expression: linear regression model $\tilde y=a+bx$, where $\tilde y$ is the predicted $y$, $x$ is the actual X-data, and $a$ and $b$ are coefficients determined via OLS
 - **Error**: at each *actual* value of Y, $y_i$, the difference between that and the OLS prediction is the error, $\epsilon_i$: $\epsilon_i=y_i-\tilde y_i$.
 - How OLS works minimizes the **mean square error** (MSE) between the predicted values $\tilde y_i$ and the actual values $y_i$.  Hence the term ***least squares***.
 - Resulting coefficient values: 
-  - $a=\hat{\mathrm{cov}}(X,Y)/\hat\sigma^2_x$: sample covariance of X and Y divided by the sample variance of X
-  - $b=\mu_Y-a\mu_X$: sample mean of Y minus the coefficient $a$ times the sample mean of X.
+  - $b=\hat{\mathrm{cov}}(X,Y)/\hat\sigma^2_x$: sample covariance of X and Y divided by the sample variance of X
+  - $a=\mu_Y-a\mu_X$: sample mean of Y minus the coefficient $b$ times the sample mean of X.
 
 ### Unit 06: Hypothesis tests
 
@@ -133,6 +131,8 @@ Overall approach: switch from looking at the time evolution of timeseries to loo
 **Discrete Fourier transform**(DFT): applying Fourier decomposition to discrete (rather than continuous) timeseries
 
 Formally: $X_t=\sum_{j=0}^{N/2}\left(A_j\cos(\omega_j t)+B_j\sin(\omega_j t)\right),$ where $X_t$ is the timeseries, $N$ is the number of timesteps, and $\omega_j$ is the **Fourier frequencies**: $\omega_j=2\pi j/N$
+
+The amplitudes $A_j$ and $B_j$ can be solved for (formulas will be given if they are needed).
 
 Method computers use to perform DFT: **fast fourier transform** (FFT)
 
