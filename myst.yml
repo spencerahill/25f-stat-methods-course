@@ -45,6 +45,7 @@ project:
         - file: labs/lab05_lin-regress.ipynb
         - file: labs/lab06_hyp-tests.ipynb
         - file: labs/lab07_autoreg-models.ipynb
+        - file: labs/lab09_neural-nets.md
     - title: Exams
       children:
         - file: exams/midterm1.md
