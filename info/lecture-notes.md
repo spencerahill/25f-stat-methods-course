@@ -43,3 +43,7 @@ However, these are a work in progress; for many chapters they are kind of just a
 ### Unit 08: Spectral analysis
 - Lecture and lab: [Jupyter notebook](https://spencerahill.github.io/stat-methods-book/chapters/spectral-analysis.html)
 
+### Units 09 and 10: Neural networks and machine learning
+- Lecture: [slides pdf](../lectures/25f-eas420_lec09_neural-nets.pdf)
+- Lab: [webpage](../labs/lab09_neural-nets.md)
+
